@@ -21,7 +21,7 @@ A beginner’s struggle to get useful responses on an integrated-GPU laptop prom
 [Follow the troubleshooting discussion](https://discord.com/channels/1423225702135894111/1491424406595964958/1567021863123685448)
 
 <a href="https://discord.com/channels/1423225702135894111/1491424406595964958/1567021863123685448">
-  <img src="local-model-repeated-output.png" alt="Repeated output from a local model" width="40%">
+  <img src="local-model-repeated-output.png" alt="Repeated output from a local model" width="50%">
 </a>
 *An example of the repetitive output discussed in the exchange.*
 

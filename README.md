@@ -2,9 +2,12 @@
 
 ## Purpose
 
-Helping the ResonantOS community discover which conversations are worth visiting—what captured attention, what people discussed, and what changed this week.
+Helping update the ResonantOS community weekly:
+- What captured attention
+- What changes
+- Which conversations are worth revisiting
+- What action points and follow ups can we expect
 
-Where members have shared clear next steps, we also highlight action points and follow-ups.
 
 ## Read the Weekly
 

@@ -14,11 +14,27 @@ Members discussed hardware purchases, memory capacity and software support. Cott
 
 *Cotton Dog’s reported prefill measurements on an RTX 5090, Ryzen 9 3900X and 128 GB DDR4 system. Click to open the original post.*
 
+## When a local model keeps thinking
+
+A beginner’s struggle to get useful responses on an integrated-GPU laptop prompted a troubleshooting exchange about model size, quantisation and context settings. Members also unpacked the difference between running a model in a chat interface and connecting it to an agent harness. The export ends without a confirmed fix.
+
+[Follow the troubleshooting discussion](https://discord.com/channels/1423225702135894111/1491424406595964958/1567021863123685448)
+
+[![Repeated slash characters filling a model’s response](local-model-repeated-output.png)](https://discord.com/channels/1423225702135894111/1491424406595964958/1567021863123685448)
+
+*An example of the repetitive output discussed in the exchange.*
+
 ## Security: certificates, updates and responsibility
 
 An extended exchange explored certificate trust across operating systems, applications and dependencies. Members debated separate versus centralised trust stores, how updates reach users, and who maintains the different parts of a software ecosystem.
 
 [Certificate-trust discussion](https://discord.com/channels/1423225702135894111/1564731238747734066/1566597761434914818) · [Application-maintenance exchange](https://discord.com/channels/1423225702135894111/1564731238747734066/1566658311884116030)
+
+## ResonantOS 2.0 Alpha: what shipped
+
+The 31 October update reported DeepSeek Harness running without the Augmentor plugin, agent switching in the demo shell, and security changes to tab mentions and dependencies. Switching agents inside the Chrome extension remained in progress, with a four-agent demo listed next.
+
+[Read the development update](https://discord.com/channels/1423225702135894111/1423225703637323830/1565924723370754132)
 
 ## From Chris’s AI Stack
 
@@ -46,6 +62,10 @@ The 3 November Academy call explored low-power agent setups, local versus cloud 
 [Watch the edited highlights](https://youtu.be/QfH9pVfBccc) · [Watch the full discussion](https://youtu.be/D2CNORQz3wE)
 
 ## Briefly shared
+
+**ComfyUI: working from a visual reference.** A member shared a workflow for generating images in a reference style, including settings screenshots, model requirements and setup instructions. They described rough, sometimes unexpected results and reported running it slowly on an M1 Max MacBook Pro. [Explore the workflow](https://discord.com/channels/1423225702135894111/1544435111934566460/1565881768932810752)
+
+[![Annotated ComfyUI workflow showing the reference image, prompt, and IPAdapter weight settings](comfyui-reference-workflow.png)](https://discord.com/channels/1423225702135894111/1544435111934566460/1565881768932810752)
 
 **Project documentation and agent handoffs.** Frisby shared an Elephant Goldfish Model port for DeepSeek Harness, describing experience with project documentation and the token cost of the workflow. [Read the exchange](https://discord.com/channels/1423225702135894111/1423225703637323830/1567261395727425629) · [Explore the project](https://github.com/dryw/dsh-egm)
 
